@@ -1,1 +1,1 @@
-Trabalhando com Git flow
+O Git Flow é uma extensão que permite a organização de repositórios Git. Através dele, podemos: organizar novas funcionalidades, bugs a serem corrigidos, novas releases de software, entre outros. Neste treinamento ensinaremos como utilizar, na prática, esta extensão, além de passarmos dicas e conceitos envolvendo o controle de versão com Git. 
